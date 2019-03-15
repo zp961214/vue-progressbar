@@ -1,14 +1,13 @@
 {
-  "name": "vue-progressbar",
-  "version": "0.7.5",
+  "name": "vuepress-progressbar",
+  "version": "0.0.2",
   "description": "A lightweight progress bar for vue",
   "main": "dist/vue-progressbar.js",
   "scripts": {
     "build": "rollup -c"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hilongjw/vue-progressbar.git"
+    "type": "git"
   },
   "keywords": [
     "vue",
@@ -16,15 +15,11 @@
     "vue loading progress",
     "vue progressbar",
     "progressbar"
-  ],
+  ], 
   "author": [
     {
-      "name": "XeonPowder",
-      "email": ""
-    },
-    {
-      "name": "Awe",
-      "email": "hilongjw@qq.com"
+      "name": "zp961214",
+      "email": "853950441@qq.com"
     }
   ],
   "license": "MIT",
